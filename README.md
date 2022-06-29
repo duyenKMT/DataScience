@@ -3,5 +3,5 @@
 - Trực quan hóa dữ liệu
 - Thuật toán: Linear Regression
 - Thiết kế giao diện dự đoán giá nhà bằng Tkinter:
-+ Đầu vào: Các thông tin ngôi nhà
-+ Đầu ra: Giá nhà dự đoán
+  + Đầu vào: Các thông tin ngôi nhà
+  + Đầu ra: Giá nhà dự đoán
